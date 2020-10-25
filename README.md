@@ -3,10 +3,10 @@ Project for programmable LED-Juggling-Balls with an acc-sensor.
 
 Idea:
 Juggling balls contain an arduino, 3 RGB-LEDs, a Bluetooth-chip and a acc-sensor
-Via an App the Balls can be controlled. Currently those things are possible:
-+choose the balls color
-+set the balls to only light up when they are in the air (acc-sensor is used)
-+run a fixed sequence of lights simultaneously with a song
+Via an App the Balls can be controlled. Currently those things are possible:__
++choose the balls color__
++set the balls to only light up when they are in the air (acc-sensor is used)__
++run a fixed sequence of lights simultaneously with a song__
 
 note: I tried to make the balls recognize the sideswap-pattern they are trown in. But the sensor turned out to be too inaccurate for mentioned task
 
